@@ -29,5 +29,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raukdv&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="raukdv" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raukdv&show_icons=true&theme=tokyonight&title_color=80ff80&text_color=000000&bg_color=80ffff&locale=en" alt="raukdv" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raukdv&show_icons=true&theme=tokyonight&title_color=000000&text_color=000000&bg_color=ffffff&locale=en" alt="raukdv" /></p>
 

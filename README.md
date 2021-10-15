@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Greetings! I'm Raúl Díaz</h1>
+<h1 align="center">Greetings! 👋, I'm Raúl Díaz</h1>
 <h3 align="center">Theres some thing i do.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raukdv&label=Profile%20views&color=0e75b6&style=flat" alt="raukdv" /> </p>

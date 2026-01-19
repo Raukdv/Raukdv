@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/rauk_san" target="blank"><img src="https://img.shields.io/twitter/follow/rauk_san?logo=twitter&style=for-the-badge" alt="rauk_san" /></a> </p>
 
-- 🔭 I’m currently working on [RA Marketing Consulting](https://precisionglobal.marketing/)
+- 🔭 I’m currently working on [Precision Global Marketing](https://precisionglobal.marketing/)
 
 - 🌱 I’m currently learning **Django, Python, Hostings and Managements servers**
 
 - 💬 Ask me about **Python and Django.**
 
-- 📫 How to reach me **raukateromadness@gmail.com,raul@ramarketingconsulting.com**
+- 📫 How to reach me **raukateromadness@gmail.com,raul@lnseoservices.com**
 
 - 📄 Know about my experiences [1 year with python web development and SysAdmin, DevOps work](1 year with python web development and SysAdmin, DevOps work)
 

@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [1 year with python web development and SysAdmin, DevOps work](1 year with python web development and SysAdmin, DevOps work)
 
-- ⚡ Fun fact **I was close to throwing away a page worth thousands of dollars for removing a virus... and no, I don't know anything about malware.**
+- ⚡ Fun fact **Once, the wind pissed me off while I was sitting on a log.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

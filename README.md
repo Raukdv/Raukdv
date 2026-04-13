@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **raukateromadness@gmail.com,raul@lnseoservices.com**
 
-- 📄 Know about my experiences [1 year with python web development and SysAdmin, DevOps work](1 year with python web development and SysAdmin, DevOps work)
+- 📄 Know about my experiences [3 year with python web development and SysAdmin, DevOps work]
 
 - ⚡ Fun fact **Once, the wind pissed me off while I was sitting on a log.**
 

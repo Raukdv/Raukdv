@@ -29,7 +29,7 @@ class Raul:
         self.working_on = "Precision Global Marketing"
         self.learning  = ["Django", "Python", "Hostings", "Server Management"]
         self.ask_me    = ["Python", "Django"]
-        self.experience = "3 years · Python web dev + SysAdmin/DevOps"
+        self.experience = "5 years · Python web dev + SysAdmin/DevOps"
         self.fun_fact  = "Once, the wind pissed me off while sitting on a log."
 
     def say_hi(self):

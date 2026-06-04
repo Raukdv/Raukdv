@@ -1,33 +1,83 @@
-<h1 align="center">Greetings! 👋, I'm Raúl Díaz</h1>
-<h3 align="center">Theres some thing i do.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raukdv&label=Profile%20views&color=0e75b6&style=flat" alt="raukdv" /> </p>
-
-<p align="left"> <a href="https://twitter.com/rauk_san" target="blank"><img src="https://img.shields.io/twitter/follow/rauk_san?logo=twitter&style=for-the-badge" alt="rauk_san" /></a> </p>
-
-- 🔭 I’m currently working on [Precision Global Marketing](https://precisionglobal.marketing/)
-
-- 🌱 I’m currently learning **Django, Python, Hostings and Managements servers**
-
-- 💬 Ask me about **Python and Django.**
-
-- 📫 How to reach me **raukateromadness@gmail.com,raul@lnseoservices.com**
-
-- 📄 Know about my experiences [3 year with python web development and SysAdmin, DevOps work]
-
-- ⚡ Fun fact **Once, the wind pissed me off while I was sitting on a log.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rauk_san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rauk_san" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raul-e-diaz-valladares-8922311b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raul-e-diaz-valladares-8922311b7" height="30" width="40" /></a>
-<a href="https://instagram.com/rauksan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rauksan" height="30" width="40" /></a>
+<!-- ===== ANIME BANNER ===== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- ===== TYPING SVG (efecto terminal anime) ===== -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=800&color=BD93F9&center=true&vCenter=true&width=600&height=70&lines=Greetings!+%E3%83%BB%E3%82%9C%E2%99%A1+I'm+Ra%C3%BAl+D%C3%ADaz;Backend+Dev+%2B+SysAdmin+%2F+DevOps;Python+%E3%83%BB+Django+%E3%83%BB+Linux" alt="Typing SVG" />
+</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raukdv&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="raukdv" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raukdv&label=Profile+views&color=bd93f9&style=flat-square" alt="profile views" />
+  <a href="https://twitter.com/rauk_san"><img src="https://img.shields.io/twitter/follow/rauk_san?logo=twitter&style=flat-square&color=8be9fd" alt="twitter" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raukdv&show_icons=true&theme=tokyonight&title_color=000000&text_color=000000&bg_color=ffffff&locale=en" alt="raukdv" /></p>
+<!-- ===== PIXEL SPRITES ===== -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" />
+</p>
 
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Sobre mí
+
+```python
+class Raul:
+    def __init__(self):
+        self.role      = "Backend Dev · SysAdmin / DevOps"
+        self.working_on = "Precision Global Marketing"
+        self.learning  = ["Django", "Python", "Hostings", "Server Management"]
+        self.ask_me    = ["Python", "Django"]
+        self.experience = "3 years · Python web dev + SysAdmin/DevOps"
+        self.fun_fact  = "Once, the wind pissed me off while sitting on a log."
+
+    def say_hi(self):
+        print("Thanks for dropping by ヾ(￣▽￣)")
+```
+
+- 🔭 Trabajando en → **[Precision Global Marketing](https://precisionglobal.marketing/)**
+- 🌱 Aprendiendo → **Django, Python, Hostings & Server Management**
+- 💬 Pregúntame de → **Python & Django**
+- 📫 Contacto → **raukateromadness@gmail.com** · **raul@lnseoservices.com**
+- ⚡ Fun fact → *Once, the wind pissed me off while I was sitting on a log.*
+
+---
+
+## <img src="https://media.giphy.com/media/W5euZ2H4Fb9pBgL2Vz/giphy.gif" width="35"> Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,php,laravel,linux,nginx,mysql,postgres,git,heroku,cs&theme=dark" alt="stack" />
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raukdv&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=raukdv&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raukdv&theme=dracula&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raukdv&theme=dracula&no-frame=true&column=7&margin-w=10" alt="trophies" />
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="30"> Connect with me
+
+<p align="center">
+  <a href="https://twitter.com/rauk_san"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/raul-e-diaz-valladares-8922311b7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/rauksan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<!-- ===== PIXEL FOOTER ===== -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</p>
